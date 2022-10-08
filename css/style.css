@@ -1,0 +1,22 @@
+.card-container {
+    text-align: center;
+    width: 350px;
+}
+.inp-container {
+    display: none;
+}
+.description-container {
+    outline: 2px dashed #92b0b3;
+    outline-offset: -37px;
+    padding: 70px 0px 64px 2%;
+    cursor: pointer;
+}
+.text-description {
+    width: 218px;
+    font-size: 0.8rem;
+    margin: auto;
+    color: gray;
+}
+.btn{
+    pointer-events: none;
+}
